@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb504f39-d021-43fb-a741-faa855147cc1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1hrSju0e5GR1mvoA9wl1iGwpFAO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TomWolfBISITengineer\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TomWolfBISITengineer\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme" />
+      <recent name="C:\Users\TomWolfBISITengineer\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\js" />
+      <recent name="C:\Users\TomWolfBISITengineer\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\js\modules" />
+      <recent name="C:\Users\TomWolfBISITengineer\Local Sites\fictional-university" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb504f39-d021-43fb-a741-faa855147cc1" name="Default Changelist" comment="" />
+      <created>1600767855534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600767855534</updated>
+      <workItem from="1600767856826" duration="8910000" />
+      <workItem from="1600945452397" duration="7639000" />
+      <workItem from="1601035445103" duration="5737000" />
+      <workItem from="1601272144587" duration="687000" />
+      <workItem from="1601316245468" duration="552000" />
+      <workItem from="1601366415765" duration="11838000" />
+      <workItem from="1601548466198" duration="31806000" />
+      <workItem from="1601908184203" duration="20068000" />
+      <workItem from="1602491488215" duration="14142000" />
+      <workItem from="1602600394911" duration="1261000" />
+      <workItem from="1602744343069" duration="10902000" />
+      <workItem from="1602854821876" duration="3544000" />
+      <workItem from="1602858531861" duration="1215000" />
+      <workItem from="1603097868311" duration="22820000" />
+      <workItem from="1603346842617" duration="332000" />
+      <workItem from="1603375517702" duration="399000" />
+      <workItem from="1603377143620" duration="319000" />
+      <workItem from="1603434776135" duration="9797000" />
+      <workItem from="1603698130463" duration="9954000" />
+      <workItem from="1603800082369" duration="2906000" />
+      <workItem from="1603804832491" duration="4938000" />
+      <workItem from="1603955559496" duration="19270000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1860" height="271" key="GridCell.Tab.0.bottom" timestamp="1601638602582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601638602582" />
+    <state width="1860" height="271" key="GridCell.Tab.0.center" timestamp="1601638602581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="271" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601638602581" />
+    <state width="1860" height="271" key="GridCell.Tab.0.left" timestamp="1601638602581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="271" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601638602581" />
+    <state width="1860" height="271" key="GridCell.Tab.0.right" timestamp="1601638602581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="271" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601638602581" />
+    <state x="2431" y="286" key="NewPhpClassDialog" timestamp="1602850064711">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2431" y="286" key="NewPhpClassDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602850064711" />
+    <state x="2714" y="443" key="NewPhpFileDialog" timestamp="1604046479951">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601885864802" />
+    <state x="2714" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604046479951" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603804345131">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600774184506" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603804345131" />
+  </component>
+</project>
