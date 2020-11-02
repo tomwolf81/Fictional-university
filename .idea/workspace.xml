@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb504f39-d021-43fb-a741-faa855147cc1" name="Default Changelist" comment="" />
+    <list default="true" id="eb504f39-d021-43fb-a741-faa855147cc1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/wp-admin/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/wp-config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/wp-includes/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/version.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/wp-includes/version.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sql/local.sql" beforeDir="false" afterPath="$PROJECT_DIR$/app/sql/local.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/php/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/php/error.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +45,8 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1hrSju0e5GR1mvoA9wl1iGwpFAO" />
@@ -27,7 +55,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -83,12 +113,26 @@
       <workItem from="1603698130463" duration="9954000" />
       <workItem from="1603800082369" duration="2906000" />
       <workItem from="1603804832491" duration="4938000" />
-      <workItem from="1603955559496" duration="19270000" />
+      <workItem from="1603955559496" duration="20308000" />
+      <workItem from="1604072994279" duration="611000" />
+      <workItem from="1604302282665" duration="9106000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -119,6 +163,10 @@
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601885864802" />
     <state x="2714" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604046479951" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604340200207">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604340200207" />
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603804345131">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>

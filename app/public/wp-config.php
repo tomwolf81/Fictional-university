@@ -20,7 +20,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 
-if(strstr($_SERVER['SERVER_NAME'], 'fictional-university.local')) {
+if(strstr($_SERVER['SERVER_NAME'],'local' )) {
         define( 'DB_NAME', 'local' );
         define( 'DB_USER', 'root' );
         define( 'DB_PASSWORD', 'root' );
@@ -31,10 +31,15 @@ if(strstr($_SERVER['SERVER_NAME'], 'fictional-university.local')) {
     define( 'DB_PASSWORD', 'uyws959xdywsd' );
     define( 'DB_HOST', '127.0.0.1' );
 }
+/*
 
 
+define( 'DB_NAME', 'local' );
+define( 'DB_USER', 'root' );
+define( 'DB_PASSWORD', 'root' );
+define( 'DB_HOST', 'localhost' );
 
-
+*/
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
 
