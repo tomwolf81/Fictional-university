@@ -21,12 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eb504f39-d021-43fb-a741-faa855147cc1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-admin/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/wp-admin/about.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/public/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/wp-config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/wp-includes/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/wp-includes/version.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/wp-includes/version.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sql/local.sql" beforeDir="false" afterPath="$PROJECT_DIR$/app/sql/local.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/php/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/php/error.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +110,7 @@
       <workItem from="1603804832491" duration="4938000" />
       <workItem from="1603955559496" duration="20308000" />
       <workItem from="1604072994279" duration="611000" />
-      <workItem from="1604302282665" duration="9106000" />
+      <workItem from="1604302282665" duration="11209000" />
     </task>
     <servers />
   </component>
